@@ -5,7 +5,7 @@ java program and xslt xml json example - easy to use
 *** HOW TO RUN
 
 Required : XML & XSL
-Produce : JSON
+Produce : JSON and FormattedJSON
 
 Comannd line Args:
 java -jar Translator.jar XML XSL JSON 
